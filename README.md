@@ -1,1 +1,2 @@
 # Emergency-Room-Visit-Report
+Built an end-to-end Power BI dashboard using a real hospital dataset to analyse ER visit patterns, patient wait times, satisfaction scores, and department referral rates. Developed DAX measures and calculated columns to track average wait times by department, peak visit hours, and satisfaction trends over time. Published the report to Power BI Service for stakeholder access, enabling hospital leadership to identify bottlenecks and optimize ER resource allocation.
